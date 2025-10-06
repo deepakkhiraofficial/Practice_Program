@@ -1,1 +1,71 @@
+# ==========================
+# Compiled source files
+# ==========================
+*.o
+*.obj
+*.so
+*.dll
 *.exe
+*.out
+*.app
+*.i
+*.ii
+*.s
+
+# ==========================
+# Precompiled headers
+# ==========================
+*.gch
+*.pch
+
+# ==========================
+# Static and dynamic libraries
+# ==========================
+*.a
+*.lib
+*.la
+*.lo
+
+# ==========================
+# Debug / Release directories
+# ==========================
+/Debug/
+/debug/
+/Release/
+/release/
+/build/
+/Build/
+
+# ==========================
+# Logs and temp files
+# ==========================
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+
+# ==========================
+# System or editor specific
+# ==========================
+.DS_Store
+Thumbs.db
+*.vscode/
+*.idea/
+
+# ==========================
+# Executables and binaries
+# ==========================
+*.exe
+*.out
+*.app
+*.bin
+
+# ==========================
+# Backup and cache
+# ==========================
+*.cache
+*.dSYM/
+*.gcda
+*.gcno
+*.gcov
